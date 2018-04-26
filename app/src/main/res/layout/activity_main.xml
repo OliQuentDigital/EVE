@@ -27,9 +27,9 @@
         android:id="@+id/activity_main_submit_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:padding="30dp"
-        android:layout_marginTop="20dp"
         android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:padding="30dp"
         android:text="Submit"
 
 
